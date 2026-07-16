@@ -1,0 +1,6 @@
+evento: nuevo apoyo registrado en una peticion
+
+mensaje: un susario ha apoyado tu peticion.
+
+informacion que no debe enviarse: cedula, correo personal, numero
+de telefono, direccion u otros datos privados.

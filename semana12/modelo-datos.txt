@@ -1,0 +1,12 @@
+
+usuario
+-  id
+- nombre
+
+apoyos
+- id
+- usuari_id
+- fecha
+
+usuario: persona registrada
+apoyo: aacion de apoyar algo.

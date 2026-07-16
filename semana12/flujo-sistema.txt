@@ -1,0 +1,12 @@
+
+1. un ciudadano ingresa al sistema y crea uan peticion o causa
+ comunitaria.
+2. el sistema guarda la informacion en la base de datos.
+3. la peticion se publica para que otros ciudadanos puedan verla.
+4. otros usuarios apoyan la peticion dando su voto o registro.
+5. el sistema cuenta automaticamente los apoyos recibidos.
+6. cuando lapeticion alcanza cierto numero de apoyos, el sistema
+ la valida.
+7. el sistema genera un documento (por ejemplo, PDF) con la peticion
+ y sus apoyos.
+8.la peticion puede ser enviada a la entidad correspondiente. 
